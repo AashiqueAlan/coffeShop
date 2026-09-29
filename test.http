@@ -1,0 +1,2 @@
+@host = http://localhost:4004
+GET {{host}}/coffee/Orders?$expand=orderItems
