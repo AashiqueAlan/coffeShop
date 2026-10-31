@@ -1,7 +1,7 @@
 name: CAP Review
 on:
   pull_request:
-    branches: [quality]
+    branches: [QA]
     types: [opened, synchronize, reopened]
 permissions:
   contents: read
