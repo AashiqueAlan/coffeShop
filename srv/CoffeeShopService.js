@@ -7,6 +7,9 @@
 //         const db = await cds.connect.to('db');
 //         const orders = await db.run(SELECT.from('exam.coffeeshop.Orders'))
 
+
+
+
 //         const day = new Date().getDay();
 //         let discount;
 //         if (day >= 1 && day <= 3) {
